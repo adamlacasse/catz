@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-image: url('./images/leia1.jpg');
+    background-size: 100%;
+    background-position: center;
+}
+
+#cat {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+#cat > h1 {
+    color: yellow;
+    text-shadow: 4px 4px 4px black;
+}
