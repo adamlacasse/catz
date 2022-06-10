@@ -3,6 +3,7 @@ body {
     background-image: url('./images/leia1.jpg');
     background-size: 100%;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 #cat {
